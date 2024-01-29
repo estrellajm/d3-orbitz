@@ -1,0 +1,77 @@
+[
+  {
+    "moons": [
+      {
+        "name": "Moon",
+        "satellites": [
+          {
+            "name": "mini moon"
+          },
+          {
+            "name": "mini moon 2"
+          },
+          {
+            "name": "mini moon 3"
+          },
+          {
+            "name": "mini moon 4"
+          }
+        ]
+      },
+      {
+        "name": "Moon 2",
+        "satellites": [
+          {
+            "name": "mini moon"
+          }
+        ]
+      },
+      {
+        "name": "Moon 3",
+        "satellites": [
+          {
+            "name": "mini moon"
+          }
+        ]
+      }
+    ],
+    "name": "Earth"
+  },
+  {
+    "moons": ["Deimos", "Phobos"],
+    "name": "Mars"
+  },
+  {
+    "moons": [
+      "Metis",
+      "Adrastea",
+      "Amalthea",
+      "Thebe",
+      "Io"
+    ],
+    "name": "Jupiter"
+  },
+  {
+    "moons": [
+      "Tarqeq",
+      "Pan",
+      "Daphnis",
+      "Atlas",
+      "Prometheus",
+      "Pandora",
+      "Epimetheus"
+    ],
+    "name": "Saturn"
+  },
+  {
+    "moons": [
+      "Cordelia",
+      "Ophelia",
+      "Bianca",
+      "Cressida",
+      "Desdemona",
+      "Juliet"
+    ],
+    "name": "Uranus"
+  }
+]
